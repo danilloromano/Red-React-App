@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import Home from "../components/pages/Home/Home.js";
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import "../assets/defaults/reset.css";
-import "../assets/defaults/default.scss";
 import { createStore } from 'redux';
 import { Provider } from 'react-redux';
 
