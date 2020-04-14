@@ -26,7 +26,7 @@ class Header extends Component {
                 <div className="header__container">
                     <div className="header__icon"><IoIosMenu /></div>
                     <div className="header__image"></div>
-                    <div className="header__search"></div>
+                    <div className="header__search"><Search /></div>
                     <div className="header__register">
                         <Button text={'CADASTRO'} handleClick={this.register}/>
                     </div>
