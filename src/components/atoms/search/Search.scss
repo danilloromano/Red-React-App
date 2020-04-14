@@ -1,0 +1,31 @@
+@import "../../../assets/variables/variables.scss";
+
+.search {
+
+    &__default {
+      height: 34px;
+      color: #444;
+      font-size: 1.083em;
+      font-weight: 400;
+      border: none;
+      box-sizing: border-box;
+      padding: 0 10px;
+      background: #fff;
+    }
+
+    &__input {
+      height: 34px;
+      color: #444;
+      font-size: 1.083em;
+      border: none;
+      box-sizing: border-box;
+      padding: 0 10px;
+      background: #fff;
+      color: black;
+  }
+
+}
+
+
+
+
