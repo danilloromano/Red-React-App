@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home render test Home should render correctly 1`] = `
+<Fragment>
+  <SideBarHeader />
+  <div
+    className="container__card"
+  >
+    <Connect(Card) />
+  </div>
+  <div
+    className="container__form"
+  >
+    <StepperDesk />
+    <Connect(Form) />
+  </div>
+</Fragment>
+`;

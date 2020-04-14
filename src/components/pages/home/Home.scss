@@ -1,0 +1,39 @@
+@import '../../../assets/variables/variables.scss';
+
+.container {
+    flex: 1;
+
+    &__form {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 40px;
+    }
+
+    &__card {
+        position: absolute;
+        left: 50%;                   
+        top: 30%;   
+        transform: translateX(-50%); 
+    }
+}
+
+@media screen and (min-width: 1024px) {
+
+    .container {
+
+        &__form {
+            display: flex;
+            flex: 1;
+            flex-direction: column;
+            justify-content: center;
+            padding: 0px 50px 50px 140px;
+        }
+
+        &__card {
+            position: absolute;
+            top: 35%;
+            left: 18%;                   
+        }
+    }
+}

@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Card render test Card should render correctly 1`] = `
+<ContextProvider
+  value={null}
+>
+  <Card
+    backImage={false}
+    cardName=""
+    cardNumber=""
+    cvv=""
+    dispatch={[Function]}
+    portionQuantity={0}
+    rotateCard={false}
+    shelfLife=""
+    store={
+      Object {
+        "clearActions": [Function],
+        "dispatch": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+      }
+    }
+  />
+</ContextProvider>
+`;
+
+exports[`Card render test Card should render correctly 2`] = `
+<ContextProvider
+  value={null}
+>
+  <Card
+    backImage={false}
+    cardName=""
+    cardNumber=""
+    cvv=""
+    dispatch={[Function]}
+    portionQuantity={0}
+    rotateCard={false}
+    shelfLife=""
+    store={
+      Object {
+        "clearActions": [Function],
+        "dispatch": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+      }
+    }
+  />
+</ContextProvider>
+`;
+
+exports[`Home render test Home should render correctly 1`] = `
+<ContextProvider
+  value={null}
+>
+  <Card
+    backImage={false}
+    cardName=""
+    cardNumber=""
+    cvv=""
+    dispatch={[Function]}
+    portionQuantity={0}
+    rotateCard={false}
+    shelfLife=""
+    store={
+      Object {
+        "clearActions": [Function],
+        "dispatch": [Function],
+        "getActions": [Function],
+        "getState": [Function],
+        "replaceReducer": [Function],
+        "subscribe": [Function],
+      }
+    }
+  />
+</ContextProvider>
+`;

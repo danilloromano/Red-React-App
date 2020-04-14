@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button render test should render correctly with props 1`] = `
+<div
+  className="btn__wrapper"
+>
+  <button
+    className="btn__default"
+    onClick={[MockFunction]}
+  >
+    OI
+  </button>
+</div>
+`;
